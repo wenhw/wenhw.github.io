@@ -1,0 +1,4 @@
+baseURL = 'https://wenhaiwen.com/'
+languageCode = 'zh-CN'
+title = "Wenhw's Blog"
+theme = 'PaperMod'
