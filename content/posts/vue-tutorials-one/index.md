@@ -320,7 +320,7 @@ module.exports = {
 
 在接着讲语法前，先看下vue的调试工具如何使用。
 
-参照文档[安装](!https://github.com/vuejs/vue-devtools)，这里需要在文件url（直接在浏览器打开index.html时，是用`file://`协议打开的）下调试，所以扩展（Vue Devtools）要打开对文件url的访问权限，已chrome为例：
+参照文档[安装](https://github.com/vuejs/vue-devtools)，这里需要在文件url（直接在浏览器打开index.html时，是用`file://`协议打开的）下调试，所以扩展（Vue Devtools）要打开对文件url的访问权限，已chrome为例：
 
 ![打开对文件url的访问](images/i1.png)
 
