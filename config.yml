@@ -139,7 +139,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Hi there 👏"
+    Title: "Hi there 👏👏👏"
     Content: >
       Welcome to my blog.
   socialIcons:
